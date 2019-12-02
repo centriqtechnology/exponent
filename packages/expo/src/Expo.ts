@@ -2,7 +2,6 @@ import './Expo.fx';
 
 import * as AR from './AR';
 import * as ErrorRecovery from './ErrorRecovery/ErrorRecovery';
-import * as Google from './Google';
 import * as Logs from './logs/Logs';
 import * as ScreenOrientation from './ScreenOrientation/ScreenOrientation';
 import * as StoreReview from './StoreReview/StoreReview';
@@ -11,7 +10,6 @@ import * as SplashScreen from './launch/SplashScreen';
 
 export { AR };
 export { ErrorRecovery };
-export { Google };
 export { Logs };
 export { ScreenOrientation };
 export { SplashScreen };
@@ -41,8 +39,6 @@ export {
   Animated,
   // @ts-ignore
   Amplitude,
-  // @ts-ignore
-  AppAuth,
   // @ts-ignore
   Asset,
   // @ts-ignore
@@ -87,8 +83,6 @@ export {
   GL,
   // @ts-ignore
   GLView,
-  // @ts-ignore
-  GoogleSignIn,
   // @ts-ignore
   Gyroscope,
   // @ts-ignore
