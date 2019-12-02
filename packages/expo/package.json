@@ -71,7 +71,6 @@
     "expo-ads-facebook": "~5.0.1",
     "expo-analytics-amplitude": "~5.0.1",
     "expo-analytics-segment": "~5.0.1",
-    "expo-app-auth": "~5.0.1",
     "expo-app-loader-provider": "~5.0.1",
     "expo-asset": "~5.0.1",
     "expo-av": "~5.0.2",

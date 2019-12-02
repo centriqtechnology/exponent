@@ -30,7 +30,6 @@ export const Notifications = {
 // import * as Segment from 'expo-analytics-segment';
 // export { Segment };
 // export { Asset } from 'expo-asset';
-// export { AppAuth } from 'expo-app-auth';
 // export { BackgroundFetch };
 // export { BarCodeScanner } from 'expo-barcode-scanner';
 // export { Calendar };

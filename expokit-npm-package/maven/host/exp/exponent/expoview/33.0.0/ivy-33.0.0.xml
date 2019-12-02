@@ -237,7 +237,6 @@
     <dependency org="host.exp.exponent" name="expo-ads-facebook" rev="5.0.1" conf="compileOnly-&gt;default"/>
     <dependency org="host.exp.exponent" name="expo-analytics-amplitude" rev="5.0.1" conf="compileOnly-&gt;default"/>
     <dependency org="host.exp.exponent" name="expo-analytics-segment" rev="5.0.1" conf="compileOnly-&gt;default"/>
-    <dependency org="host.exp.exponent" name="expo-app-auth" rev="5.0.1" conf="compileOnly-&gt;default"/>
     <dependency org="host.exp.exponent" name="expo-app-loader-provider" rev="5.0.1" conf="compileOnly-&gt;default"/>
     <dependency org="host.exp.exponent" name="expo-av" rev="5.0.2" conf="compileOnly-&gt;default"/>
     <dependency org="host.exp.exponent" name="expo-background-fetch" rev="5.0.1" conf="compileOnly-&gt;default"/>
